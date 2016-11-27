@@ -1,2 +1,2 @@
-# PizzaTime-API
-Pizza Time API
+# PizzaTime-Sever
+Pizza Time Server
